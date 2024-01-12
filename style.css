@@ -1,0 +1,21 @@
+body{
+ color :paleturquoise;  
+ background-color:palevioletred ;
+ font-weight: bold;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_faces,#result_faces_name,#result_faces_accuracy{
+    color:gold ;
+    font-weight: bold;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
